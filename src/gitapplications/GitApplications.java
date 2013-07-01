@@ -19,8 +19,7 @@ public class GitApplications {
         // TODO code application logic here
         String s;
         s="sdbjdsfv";
-        System.out.println("!!");
-        System.out.println("second time");
+        System.out.println("sgkgkg");
         
     }
 }
