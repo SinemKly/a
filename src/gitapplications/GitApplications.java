@@ -19,8 +19,8 @@ public class GitApplications {
         // TODO code application logic here
         String s;
         s="sdbjdsfv";
-        System.out.println("sgkgkg");
-        System.out.print("revert part");
+        System.out.println("!!");
+        System.out.println("second time");
         
     }
 }
