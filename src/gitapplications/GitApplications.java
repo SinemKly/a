@@ -20,6 +20,7 @@ public class GitApplications {
         String s;
         s="sdbjdsfv";
         System.out.println("sgkgkg");
+        System.out.print("revert part");
         
     }
 }
